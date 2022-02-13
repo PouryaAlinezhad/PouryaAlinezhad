@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PouryaAlinezhad.
-Started my carrier as a RAN engineer at Huawei and currently working as a “Technology Roadmap and Network Solutions Architect” at MCI with a focus on 5G and beyond technologies.
+- started as a RAN engineer at Huawei and currently working as a “Technology Roadmap and Network Solutions Architect” at MCI with a focus on 5G and beyond technologies.
 - 🌱 I’m currently learning SDN and other 5G enabler technologies.
 Before joining Telecom industry I was a freelancer Electronic engineer with dense background in Programming and Electronics softwares and R&D experience on Digital signal processing and FPGA/ARM processors.
-- 👀 I’m interested in Telecommunications and programming and I'm studying my third MSc degree on a special scheduled program on Emerging Technologies in Telecommunications which is mostly about Advanced NR, Virtualization, NFV and SDN networks.
+- 👀 I’m interested in Telecommunications and programming and I'm studying my third MSc degree on a special scheduled program on Emerging Technologies in Telecommunications which is mostly about Advanced NR, NFV and SDN networks.
 to know more please visit: https://www.linkedin.com/in/pourya-alinezhad/
 - 💞️ I’m looking to collaborate on 5G and beyond technologies
 - 📫 How to reach me palinezhad@eng.uk.ac.ir
